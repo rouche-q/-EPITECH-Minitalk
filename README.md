@@ -1,5 +1,4 @@
-# -EPITECH-Minitalk
-Epitech project
+
 Cool project from EPITECH school
 
 /!\ AVIS AU TEK 1 DES PROMO 2021 ET PLUS /!\
